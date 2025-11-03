@@ -1,0 +1,17 @@
+# Ignora la cartella del dataset (i file .txt)
+movies_txt/
+
+# Ignora la cartella dell'indice Lucene (i risultati binari)
+lucene-index/
+
+# Ignora la cartella di build di Maven (i file .class)
+target/
+
+# Ignora i file specifici del progetto Eclipse
+.project
+.classpath
+.settings/
+
+# Ignora altri file compilati o di log
+*.class
+*.log
